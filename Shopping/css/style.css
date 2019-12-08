@@ -1,0 +1,16 @@
+.table img{
+    width: 200px;
+    height: 150px;
+}
+.table td{
+    vertical-align: middle;
+}
+.fa-times{
+    cursor: pointer;
+    font-size: 40px;
+    color: red;
+    transition: color 0.5s;
+}
+.fa-times:hover{
+    color: white;
+}
